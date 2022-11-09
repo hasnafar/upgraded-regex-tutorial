@@ -16,7 +16,7 @@ Code snippet is shown below
 - [Anchors](#anchors)
 - [Quantifiers](#quantifiers)
 - [Character Classes](#character-classes)
-- [Grouping and Bracket Expressions](#grouping-and-bracket-expressions)
+- [Grouping and Bracket Expressions](#grouping-and-bracket-expressions) 
 - [Explanation](#explanation)
 
 ## Regex Components
@@ -90,4 +90,5 @@ This is followed by ```$``` which is the end anchor
 
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+Hasna Farrukh is an elementary school English teacher residing in NJ. She loves to travel, cook, and code in her free time. 
+GitHub Profile: https://github.com/hasnafar
