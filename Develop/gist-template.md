@@ -1,10 +1,15 @@
-# Title (replace with your title)
+# Regular Expressions
 
-Introductory paragraph (replace this with your text)
+Regular Expressions or regex for short, are patterns used to match characters in strings.
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+We will be exploring a regex that is used to identify if a particular string has the characteristics of an email address.
+Code snippet is shown below
+
+```
+/^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/
+```
 
 ## Table of Contents
 
