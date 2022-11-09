@@ -13,6 +13,6 @@ When the user reaches the end of the tutorial, they find a section about the aut
 
 Git Hub Repo: https://github.com/hasnafar/upgraded-regex-tutorial
 
-
+GitHub gist URL: https://gist.github.com/hasnafar/e41225b8a1dc9263ab9af33d5100428d
 
 
